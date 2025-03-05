@@ -7,7 +7,7 @@ This repository will host the official implementation of our paper: "Bridging Do
 
 ## Code Release Plan
 
-**Note**: The complete codebase and associated resources will be publicly released after the paper is formally accepted for publication in an academic conference or journal.
+**Note**: The code is coming soon...
 
 ## Research Overview
 
